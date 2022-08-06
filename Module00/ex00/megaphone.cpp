@@ -30,6 +30,7 @@ int	main(int argc, char **argv)
 			std::cout << argv[i];
 			i++;
 		}
+		std::cout << std::endl;
 	}
 	return 0;
 }
